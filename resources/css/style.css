@@ -192,6 +192,7 @@ ul, menu, dir {
     height: 15rem;
   }
   .mobile-nav {
+    padding-top: 1.8rem;
     display: block;
     text-align: center;
   }
